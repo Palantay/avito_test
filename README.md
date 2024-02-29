@@ -13,7 +13,7 @@ ___
 
 Клонируем репозиторий.
 
-    блаба
+    git clone https://github.com/Palantay/avito_test.git
 
 Запускаем докер
 
