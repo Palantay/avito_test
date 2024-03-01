@@ -23,6 +23,10 @@ ___
 
     docker exec -it avito bash
 
+Устанавливаем зависимости.
+
+    composer install
+
 Накатываем миграции 
 
     php artisan migrate
